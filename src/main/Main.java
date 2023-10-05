@@ -11,6 +11,7 @@ public class Main {
         
         System.out.println("Ahopra hago un commit local");
         System.out.println("Ahopra hago uotro commit local");
+        System.out.println("Ahora quiero hacer push peo que no salgan los commits anteriores");
     }
 }
 // fin
